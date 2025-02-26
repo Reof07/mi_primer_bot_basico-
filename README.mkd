@@ -1,4 +1,9 @@
 # clonar git
+https://github.com/Reof07/mi_primer_bot_basico-.git
+
+# crear env
+
+ name = env
 
 
 # crear venv
@@ -22,6 +27,12 @@
 ```
 
 # instalar dep
+ ```bash
+  pip install -r requirements.txt
+ ```
 
 # Run proyect
+```bash
+    fastapi dev main.py
+```
 
