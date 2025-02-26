@@ -1,0 +1,7 @@
+# ENV
+.env
+
+# VENV
+bot_venv/
+
+__pycache__

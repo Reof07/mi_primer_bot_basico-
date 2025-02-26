@@ -1,0 +1,27 @@
+# clonar git
+
+
+# crear venv
+```bash
+    python -m venv bot_venv
+```
+
+# activar venv
+
+## wimdow (cmd)
+
+```bash
+    bot_venv\Scripts\activate
+```
+
+## para linux 
+
+```bash
+    source bot_venv/bin/activate
+
+```
+
+# instalar dep
+
+# Run proyect
+
